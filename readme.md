@@ -1,7 +1,10 @@
 # Introduction
 
-This Repo is still on progress  
+This readme is written by ChatGPT
 See the 1th solution here: https://thetourney.github.io/adia-report/
+
+You need add competition dataset to the folder `data`
+Here is an example dataset in `data` folder named 'A.csv' for observation and 'B.csv' for its causal DAG
 
 # Data Processing
 
