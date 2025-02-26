@@ -1,6 +1,6 @@
 # Introduction
 
-This readme is written by ChatGPT
+This readme is written by ChatGPT  
 See the 1th solution here: https://thetourney.github.io/adia-report/
 
 You need add competition dataset to the folder `data`  
